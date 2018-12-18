@@ -1,0 +1,8 @@
+*.egg-info
+.cache
+*.*.so
+build
+.pytest_cache
+.mypy_cache
+.ipynb_checkpoints
+__pycache__
